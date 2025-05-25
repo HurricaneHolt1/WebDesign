@@ -1,7 +1,7 @@
 h1 {
 padding: 50px;
 text-align: center;
-background-color: darkcyan; 
+background-color: rgb(141, 19, 241); 
 }
 
 
@@ -17,5 +17,5 @@ text-align: center;
 
 
 body {
-background-color: DarkGray;
+background-color: rgb(140, 183, 240);
 }
