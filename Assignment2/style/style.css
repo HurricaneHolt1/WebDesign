@@ -30,7 +30,7 @@ body {
 background-color: #800080;
 }
 
-ul{
+ul li {
     margin: 25px; /* left-right */
     color:#000000;
     display: inline-block;
