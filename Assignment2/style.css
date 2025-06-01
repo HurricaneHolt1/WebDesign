@@ -1,0 +1,21 @@
+div {
+padding: 50px;
+text-align: center;
+background-color: rgb(154, 67, 224); 
+}
+
+
+h3 {
+padding: 50px;
+text-align: center;
+} 
+
+p { 
+padding: 50px;
+text-align: center;
+}
+
+
+body {
+background-color: rgb(140, 183, 240);
+}
