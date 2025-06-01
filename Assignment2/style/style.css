@@ -1,8 +1,11 @@
+
 div {
-padding: 50px;
-text-align: center;
-background-color: rgb(140, 183, 240); 
-}
+    border: 1px solid black;
+    padding: 35px;
+    text-align: center;
+    background-color: snow;
+} 
+
 
 header{
 padding: 50px;
