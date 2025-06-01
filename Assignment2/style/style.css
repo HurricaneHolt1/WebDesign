@@ -29,15 +29,15 @@ background-color: rgb(154, 67, 224);
 }
 
 ul{
-    text-align: center;
+    margin: 20px; /* all sides */
     color: black;
     display: inline-block;
-    
+
 }
 li {
   list-style-type: none;
   color: rgb(0, 0, 0);
-  text-align: center;
+  margin: 20px; /* all sides */
   display: inline-block;
   font-family: Georgia, serif;
 }
