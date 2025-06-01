@@ -8,13 +8,13 @@ div {
 
 
 header{
-padding: 50px;
+padding: 25px;
 text-align: center;
 background-color: rgb(154, 67, 224); 
 }
 
 h3 {
-padding: 30px;
+padding: 25px;
 text-align: center;
 } 
 
@@ -29,7 +29,7 @@ background-color: rgb(154, 67, 224);
 }
 
 ul{
-    margin: 50px; /* left-right */
+    margin: 25px; /* left-right */
     color: black;
     display: inline-block;
 
@@ -37,7 +37,7 @@ ul{
 li {
   list-style-type: none;
   color: rgb(0, 0, 0);
-  margin: 50px; /* left-right */
+  margin: 25px; /* left-right */
   display: inline-block;
   font-family: Georgia, serif;
 }
