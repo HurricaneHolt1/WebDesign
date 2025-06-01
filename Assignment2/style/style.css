@@ -31,6 +31,8 @@ background-color: rgb(154, 67, 224);
 ul{
     margin: 50px; /* all sides */
     color: black;
+    max-width: 100%;
+    margin: 0 auto;
     display: inline-block;
 
 }
@@ -38,6 +40,8 @@ li {
   list-style-type: none;
   color: rgb(0, 0, 0);
   margin: 50px; /* all sides */
+  max-width: 100%;
+  margin: 0 auto;
   display: inline-block;
   font-family: Georgia, serif;
 }
