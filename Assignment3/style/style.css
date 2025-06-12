@@ -9,6 +9,7 @@ div {
 } 
 
 
+
 div {
   display: flex;
   flex-wrap: wrap;
@@ -21,7 +22,7 @@ div {
 }
 
 div img {
-  width: 75%; /* three images per row (3 x 30% + gaps) */
+  width: 30%; /* three images per row (3 x 30% + gaps) */
   height: auto;
 }
 header{
@@ -147,5 +148,5 @@ button {
 }
 
 button:hover {
-  background-color: #7a564f;
+  background-color: #f53008;
 }
