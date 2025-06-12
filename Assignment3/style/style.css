@@ -21,7 +21,7 @@ div {
 }
 
 div img {
-  width: 30%; /* three images per row (3 x 30% + gaps) */
+  width: 75%; /* three images per row (3 x 30% + gaps) */
   height: auto;
 }
 header{
