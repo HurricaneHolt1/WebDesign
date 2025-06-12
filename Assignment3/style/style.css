@@ -46,6 +46,10 @@ background-color: #bb05bb;
 font-family: 'Arvo', serif;
 }
 
+li:hover {
+  background-color: lightblue;
+}
+
 ul li {
     margin: 25px; /* left-right */
     color:#000000;
