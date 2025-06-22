@@ -37,6 +37,12 @@ div {
     background-color:#07ec41;
 } 
 
+nav{
+    padding: 25px;
+    text-align: center;
+    background-color: #07ec41; 
+
+}
 
 header{
 padding: 25px;
